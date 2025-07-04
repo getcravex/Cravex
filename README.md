@@ -29,4 +29,3 @@ Your turn.
 ```
 ****🔗 Join Now:****
 [**dsc.gg/getcravex**](https://discord.gg/zAMUstDHJ5)
--# @here @everyone
