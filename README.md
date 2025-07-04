@@ -28,4 +28,5 @@ Thousands already switched.
 Your turn.
 ```
 ****🔗 Join Now:****
-[**dsc.gg/getcravex**](https://discord.gg/zAMUstDHJ5)
+
+[**discord.gg/getcravex**](https://discord.gg/zAMUstDHJ5)
