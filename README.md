@@ -27,7 +27,6 @@ Join the Cravex movement.
 Thousands already switched.
 Your turn.
 ```
--# As of 2025-07-01, Cravex is **not** out
 ****🔗 Join Now:****
 [**dsc.gg/getcravex**](https://discord.gg/zAMUstDHJ5)
 -# @here @everyone
