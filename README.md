@@ -17,9 +17,13 @@ Tired of unstable junk and fake promises?
 ```
 
 ****Why Cravex?****
+
 🔹 Stable and consistent
+
 🔸 Designed for real scripters
+
 🔹 Works with every game
+
 🔸 Secure, fast, and future-proof
 
 ```yaml
